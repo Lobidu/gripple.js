@@ -1,0 +1,26 @@
+{
+  "name": "gripple.js",
+  "version": "0.1.0",
+  "description": "A minimal front-end framework for building component-based DOMs with Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lobidu/gripple.js.git"
+  },
+  "keywords": [
+    "reactive",
+    "javascript",
+    "frontend",
+    "framework",
+    "components"
+  ],
+  "author": "Janis Altherr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lobidu/gripple.js/issues"
+  },
+  "homepage": "https://github.com/Lobidu/gripple.js#readme"
+}
