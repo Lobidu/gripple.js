@@ -2,7 +2,7 @@
 
 Gripple.js is a very (very!) minimal framework enabling you to dynamically load components into a DOM or even
 build Single Page Applications. It is inspired by Vue.js' component pattern but makes compromises for
-simplicity and size. After all there is no need to recreate Vue. The <10 KB Gripple.js offers itself if
+simplicity and size. After all there is no need to recreate Vue. The <3 KB Gripple.js offers itself if
 Vue just adds too much overhead.
 
 Gripple is written in ES2017 Syntax, so if you need to support older Browsers, you will need to polyfill using Babel.
