@@ -70,10 +70,16 @@ class Gripple {
     Object.keys(this.component.data).forEach((k)=>this._createDataInstance(k))
   }
 
+  _wait() {
+   // placeholder function that does not do anything
+  }
+
   mount() {
     this._loadProps();
     this._render();
     this._registerData();
+    this._wait();
+    
     // let the component access its own node
     this.component.node = this.node;
     // let the component trigger a new render
