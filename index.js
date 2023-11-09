@@ -74,7 +74,7 @@ class Gripple {
    // placeholder function that does not do anything
   }
 
-  mount() {
+  mounty() {
     this._loadProps();
     this._render();
     this._registerData();
