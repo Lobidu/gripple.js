@@ -42,7 +42,7 @@ class Gripple {
   _render() {
     // call the render() function of the component which returns HTML to
     // be injected.
-    this.node.innerHTML = this.component.render();
+    this.node.innerHTML = this.component.setup();
 
     // At this stage, all child components are just empty tags, so here
     // we populate them.
